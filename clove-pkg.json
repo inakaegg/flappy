@@ -1,0 +1,7 @@
+{
+  "pkg": "inakaegg/flappy",
+  "ns_root": "inakaegg::flappy",
+  "deps": {
+    "inakaegg/flappy_util": { "origin": "inakaegg/flappy_util" }
+  }
+}

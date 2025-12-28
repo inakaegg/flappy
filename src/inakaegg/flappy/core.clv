@@ -1,7 +1,12 @@
 (ns inakaegg::flappy::core)
 
+(require inakaegg::flappy_util::core)
+
 (defn hello []
   "hello")
 
 (defn add [a b]
   (+ a b))
+
+(defn util-value []
+  (inakaegg::flappy_util::core::util-value))
