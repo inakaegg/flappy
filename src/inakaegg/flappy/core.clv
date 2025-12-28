@@ -1,0 +1,7 @@
+(ns inakaegg::flappy::core)
+
+(defn hello []
+  "hello")
+
+(defn add [a b]
+  (+ a b))
